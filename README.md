@@ -3,7 +3,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/jinendra-sontakke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jinendra-sontakke" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jinendra-sontakke" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Flinkedin_174857&psig=AOvVaw2YHLOBH2Ad7ZIXs3ApCgeO&ust=1691669546978000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJCno6XGz4ADFQAAAAAdAAAAABAE" alt="jinendra-sontakke" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/jinendra1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="jinendra1" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sontakkejinendr1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sontakkejinendr1" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/jinendrasontakke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jinendrasontakke" height="30" width="40" /></a>
